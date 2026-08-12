@@ -34,7 +34,6 @@ The connector must be removed from the donor power supply and installed onto the
 * Schematic and PCB design
 * Gerber/manufacturing files
 * 3D-printable enclosure
-* Bill of materials
 * Reference photos of the assembled prototype
 
 ## Prototype / Revision Note
