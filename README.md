@@ -1,20 +1,23 @@
 # N64PowerAdapter
 A Revised modern Power brick for the N64 using off the shelf High quality transformers.
-N64 Replacement Power Supply
+N64 Universal Replacement Power Supply
 
 A simple replacement power supply for the Nintendo 64 using modern, readily available power modules.
 
-This project includes the PCB design, schematic, and 3D-printable enclosure required to build a replacement for the original N64 power supply. The supply accepts AC mains through an IEC C8 connector and provides the 12 V and 3.3 V rails required by the N64 through the original 6-pin power connector.
+This project includes the PCB design, schematic, and 3D-printable enclosure required to build a replacement for the original N64 power supply. The supply accepts Universal AC mains through an IEC C8 connector and provides the 12 V and 3.3 V rails required by the N64 through the original 6-pin power connector.
 
 The design uses TRACO Power modules for the AC/DC and DC/DC conversion, keeping the actual power circuitry simple while providing an isolated and compact replacement for aging original power supplies.
 
-Project Files
+Project Files:
+
 Schematic and PCB design
 Gerber/manufacturing files
 3D-printable enclosure
 Bill of materials
 Reference photos of the assembled prototype
 Prototype / Revision Note
+
+A Sacrificial Power adapter (Either Official or 3rd Party) for the 6 pin power connector is needed
 
 The photos shown below are of an earlier prototype revision.
 
