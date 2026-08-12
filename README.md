@@ -26,7 +26,7 @@ The PCB used in the photographed prototype required a small section of the board
 The current revision is intended to fit without this modification, but has not yet been physically verified in the same configuration shown in the photos.
 
 Photos
-<img src="images/5490.jpg" width="600" alt="Internal assembly">
-<img src="images/5486.jpg" width="600" alt="Internal assembly">
-<img src="images/5485.jpg" width="600" alt="Internal assembly">
-<img src="images/5483.jpg" width="600" alt="Internal assembly">
+![photo1](images/5490.jpg)
+![photo2](images/5486.jpg)
+![photo3](images/5485.jpg)
+![photo4](images/5483.jpg)
