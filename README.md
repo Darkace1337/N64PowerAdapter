@@ -12,6 +12,23 @@ The design uses TRACO Power modules for the AC/DC and DC/DC conversion, keeping 
 
 The connector must be removed from the donor power supply and installed onto the replacement PCB.
 
+## Bill of Materials
+
+| Reference | Qty | Manufacturer | Part Number | Description |
+|:---|---:|:---|:---|:---|
+| PS1 | 1 | TRACO Power | TEL 10-2410WI | 10 W isolated DC/DC converter, 9–36 V input, 3.3 V / 2.7 A output |
+| PS2 | 1 | TRACO Power | TMPW 25-112 | 25 W AC/DC converter, 12 V / 2.083 A output |
+| C1 | 1 | KYOCERA AVX | TAJD476K025SNJ | 47 µF, 25 V, 10% tantalum capacitor |
+| C2, C4 | 2 | Vishay | 05007-BR104AKU-J | 0.1 µF, 25 V, 10% MLCC |
+| C5 | 1 | Vishay | 592D477X96R3C2T20H | 470 µF, 6.3 V, 10% tantalum capacitor |
+| F1 | 1 | Eaton | C310T-SC-2-5-R-TR1 | 2.5 A, 250 V ceramic cartridge fuse |
+| J1 | 1 | — | — | C8 Panel Mount Plug, flange mount type |
+| J3 | 1 | Nintendo / Donor PSU | — | Original N64 6-pin power connector |
+| Screws-A | 3 | - | - | M3 x 5 mm Button head machine screws
+| Screws-B | 4 | - | - | M3 x 6 mm Flat head self tapping screws
+| Thread Inserts| 2 | - | - | M3 x 4 mm Heat-set insets
+
+
 ## Project Files
 
 * Schematic and PCB design
