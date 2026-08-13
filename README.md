@@ -22,11 +22,11 @@ The connector must be removed from the donor power supply and installed onto the
 | C2, C4 | 2 | Vishay | 05007-BR104AKU-J | 0.1 µF, 25 V, 10% MLCC |
 | C5 | 1 | Vishay | 592D477X96R3C2T20H | 470 µF, 6.3 V, 10% tantalum capacitor |
 | F1 | 1 | Eaton | C310T-SC-2-5-R-TR1 | 2.5 A, 250 V ceramic cartridge fuse |
-| J1 | 1 | — | — | C8 Panel Mount Plug, flange mount type |
+| J1 | 1 | — | Amazon | C8 Panel Mount Plug, flange mount type |
 | J3 | 1 | Nintendo / Donor PSU | — | Original N64 6-pin power connector |
-| Screws-A | 3 | - | - | M3 x 5 mm Button-head machine screws
-| Screws-B | 4 | - | - | M3 x 6 mm Countersunk self tapping screws
-| Thread Inserts| 2 | - | - | M3 x 4 mm Heat-set insets
+| Screws-A | 3 | - | Amazon | M3 x 5 mm Button-head machine screws
+| Screws-B | 4 | - | Amazon | M3 x 6 mm Countersunk self tapping screws
+| Thread Inserts| 2 | - | Amazon | M3 x 4 mm Heat-set insets
 
 
 ## Project Files
