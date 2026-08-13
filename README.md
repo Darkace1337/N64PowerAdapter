@@ -24,8 +24,8 @@ The connector must be removed from the donor power supply and installed onto the
 | F1 | 1 | Eaton | C310T-SC-2-5-R-TR1 | 2.5 A, 250 V ceramic cartridge fuse |
 | J1 | 1 | — | — | C8 Panel Mount Plug, flange mount type |
 | J3 | 1 | Nintendo / Donor PSU | — | Original N64 6-pin power connector |
-| Screws-A | 3 | - | - | M3 x 5 mm Button head machine screws
-| Screws-B | 4 | - | - | M3 x 6 mm Flat head self tapping screws
+| Screws-A | 3 | - | - | M3 x 5 mm Button-head machine screws
+| Screws-B | 4 | - | - | M3 x 6 mm Countersunk self tapping screws
 | Thread Inserts| 2 | - | - | M3 x 4 mm Heat-set insets
 
 
